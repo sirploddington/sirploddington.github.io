@@ -19,6 +19,7 @@ title: Categories
       <article class="archive-item">
         <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
       </article>
+    </pre>
     
     {% endfor %}
   </div>
