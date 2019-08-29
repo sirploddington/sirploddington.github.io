@@ -14,9 +14,11 @@ title: Categories
     <a name="C#"></a>
 
     {% for post in site.categories[category_name] %}
-    <blockquote><article class="archive-item">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-    </article></blockquote>
+    
+    <p style="margin-left: 40px"><article class="archive-item">
+    <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+    </article></p>
+    
     {% endfor %}
   </div>
 {% endfor %}
