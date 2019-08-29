@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test You're up and running!
+title: Hello World!
 categories: C#
 ---
 To display something in the C# console the command is:
