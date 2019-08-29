@@ -10,9 +10,9 @@ title: Categories
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     
-
     <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
+    <a name="C#"></a>
+
     {% for post in site.categories[category_name] %}
     <blockquote><article class="archive-item">
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
