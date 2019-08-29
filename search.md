@@ -11,7 +11,7 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search-script.js" type="text/javascript"></script>
+<script src="search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
