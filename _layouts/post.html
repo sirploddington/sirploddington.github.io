@@ -5,13 +5,13 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   
-  Categories: 
   <div class="post-categories">
     {% if post %}
       {% assign categories = post.categories %}
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
+    Categories: 
     {% for category in categories %}
     <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
