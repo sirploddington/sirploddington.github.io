@@ -6,13 +6,12 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <p>
+
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  
-      </h1>
       <br>
       Categories: {{page.categories | capitalize | join: ', '}}
-      </p>
+      </h1>
 
       <div class="entry">
         <p>
