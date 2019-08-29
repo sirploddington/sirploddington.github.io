@@ -10,7 +10,7 @@ title: Categories
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     
-    <h4 class="category-head">{{ category_name }}</h4>
+    <h4 class="category-head">{{ category_name }} : </h4>
     <a name="C#"></a>
 
     {% for post in site.categories[category_name] %}
