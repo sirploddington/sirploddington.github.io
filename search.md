@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /search/
-title: Blog Search
+title: Search
 ---
 
 <!-- Search input field -->
@@ -15,7 +15,7 @@ title: Blog Search
 </div>
 
 <!-- Search result container -->
-<div class="search-results position-absolute">
+<div id="results-container" class="search-results position-absolute">
       <ul id="results" class="search-results-ul card shadow border border-top-0">
       </ul>
 </div>
@@ -26,8 +26,8 @@ title: Blog Search
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
+  searchInput: document.getElementById('main_input'),
+  resultsContainer: document.getElementById('results'),
   json: '/search.json'
 })
 </script>
