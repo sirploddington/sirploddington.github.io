@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /search/
-title: Search
+title: Blog Search
 ---
 
 <!-- Search input field -->
