@@ -6,10 +6,18 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <p>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  
+      </h1>
+      <br>
+      Categories: {{page.categories | capitalize | join: ', '}}
+      </p>
 
       <div class="entry">
+        <p>
         {{ post.excerpt }}
+        </p>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
