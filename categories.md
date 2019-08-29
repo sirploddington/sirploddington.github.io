@@ -15,9 +15,10 @@ title: Categories
 
     {% for post in site.categories[category_name] %}
     
-    <p style="margin-left: 40px"><article class="archive-item">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-    </article></p>
+    <pre>
+      <article class="archive-item">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+      </article>
     
     {% endfor %}
   </div>
