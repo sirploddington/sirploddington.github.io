@@ -28,10 +28,24 @@
           </div>
 
           <nav>
-            <form method="get" action="http://www.google.com/search" target="_blank">
-              <input type="hidden" name="sitesearch" value="{{ site.footer-links.github }}.github.io" />
-              <input type="text" name="q" maxlength="255" placeholder="Search with Google" />
-            </form>
+            <!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+            <!-- Script pointing to search-script.js -->
+            <script src="/path/to/search-script.js" type="text/javascript"></script>
+
+            <!-- Configuration -->
+            <script>
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('search-input'),
+              resultsContainer: document.getElementById('results-container'),
+              json: '/search.json'
+            })
+            </script>
+            
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/categories"> Categories</a>
             <a href="{{ site.baseurl }}/about">About</a>
