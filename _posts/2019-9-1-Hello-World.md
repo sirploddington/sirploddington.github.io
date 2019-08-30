@@ -10,11 +10,6 @@ Console.WriteLine("Hello World");
 ```
 
 This needs to be within the: 
-``` C#
+```Csharp
 static void Main(){      }
-```
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
 ```
