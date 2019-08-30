@@ -13,3 +13,8 @@ This needs to be within the:
 ``` C#
 static void Main(){      }
 ```
+
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
