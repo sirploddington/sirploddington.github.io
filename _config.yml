@@ -9,7 +9,7 @@ name: Wayne Jones # CHANGE THIS TO YOUR NAME
 description: Teacher of Computer Science # CHANGE THIS FOR YOUR BLOG
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: jekyll-logo.png
+avatar: /jekyll-logo.png
 
 #
 # Flags below are optional
