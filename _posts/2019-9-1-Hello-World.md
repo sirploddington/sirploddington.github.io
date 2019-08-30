@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-categories: C# Programming
+categories: C#
 ---
 To display something in the C# console the command is:
 
