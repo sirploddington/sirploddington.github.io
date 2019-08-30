@@ -10,6 +10,6 @@ Console.WriteLine("Hello World");
 ```
 
 This needs to be within the: 
-```csharp
+```
 static void Main(){      }
 ```
