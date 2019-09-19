@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: Numbers
+categories: C#
+---
+ To enter a number and convert it into a interger, the command is:
+ 
+ ```csharp
+ string temp;
+ Console.WriteLine("Enter number A:");
+ temp = Console.ReadLine();
+ int a = Convert.ToInt32(temp);
+ ```
+ 
+ To add two entered numbers the command is:
+ 
+ ```csharp
+ int c = a + b
+ ```
+ 
+  To subtract two entered numbers the command is:
+ 
+ ```csharp
+ int c = a - b
+ ```
+ 
+  To multiply two entered numbers the command is:
+ 
+ ```csharp
+ int c = a * b
+ ```
