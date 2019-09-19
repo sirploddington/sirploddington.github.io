@@ -3,7 +3,7 @@ layout: post
 title: Doubles and Constants
 categories: C#
 ---
- Doubles are used to represent decimal numbers
+ Doubles are used to represent decimal numbers.
  To create a double we use the command 'double'
  
  ```csharp
@@ -15,7 +15,7 @@ categories: C#
  Console.ReadLine();
  
  ```
- Constants are not changed and usually displayed in capitals
+ Constants are not changed and usually displayed in capitals.
  To create a constant we use the command 'const'
  
  ```csharp
