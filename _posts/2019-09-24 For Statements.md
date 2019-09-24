@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: For Statements
+categories: C#
+---
+ A For loop allows us to repeat a task over and over again. 
+ To create a for loop, we can do:
+ 
+ ```csharp
+ for (int a = 0; a<1000; a++)
+            {
+                Console.WriteLine(a);
+            }
+
+Console.ReadLine();
+ 
+ ```
+ a=0  Makes an interger of a and sets it to 0.
+      a<1000  Sets the loop to keep going until a no longer is less than 1000.
+      a++  adds 1 to a evry time the loop is run
+ 
+ ```csharp
+ 
+for (int a = 0; a<1000; a++)
+
+ ```
