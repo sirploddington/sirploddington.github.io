@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Doubles and Constants
-categories: C#
+categories: C# Programming
 ---
  Doubles are used to represent decimal numbers.
  To create a double we use the command 'double'
