@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Condition Symbols
-categories: C# programming
+categories: C# Programming
 ---
  
  Equal to
