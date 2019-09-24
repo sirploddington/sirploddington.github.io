@@ -17,7 +17,7 @@ Console.ReadLine();
  ```
  a=0  Makes an interger of a and sets it to 0.
       a<1000  Sets the loop to keep going until a no longer is less than 1000.
-      a++  adds 1 to a evry time the loop is run
+      a++  adds 1 to a every time the loop is run
  
  ```csharp
  
