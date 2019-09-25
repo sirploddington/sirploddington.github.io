@@ -14,6 +14,8 @@ I hate apple.
 
 Friend count: 3
 
+I once ate a whole flashcard for a quid
+
 ### More Information
 
 I am currently doing this, Maths, Further Maths and History.
