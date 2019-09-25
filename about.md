@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,
+
+I am currently alive (If I am to die, hack into this account and change alive to dead please).
+
+I have had experience with python at GCSE level and somehow didnt fail my computer science GCSE, I miraculously gained a 7.
+
+I hate apple.
+
+Friend count: 3
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently doing this, Maths, Further Maths and History.
+
+Plan Bee is my favourite film, if you haven't heard of it, you haven't lived.
+
+I HATE VEGTBLES, ironically, I am vegetarian.
+
+I also cannot spell
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: Fishpie16@gmail.com
+
+ClubPenguin:  KiillAllPengians16
