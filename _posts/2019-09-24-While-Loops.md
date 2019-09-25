@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: While Loop
-categories: C# Programming
+categories: C# Programming Loops
 ---
  A While loop allows us to repeat a task over and over again while a condition is true. 
  To create a While loop, we can do:
