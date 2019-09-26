@@ -49,3 +49,35 @@ categories: C# Programming
             Console.ReadLine();
  
  ```
+
+To create a substring we do
+
+The (3,4) represents the positioning in the string.
+
+```csharp
+
+string greeting = "Hello Bob";
+            string extract = greeting.Substring(3, 4);
+            Console.WriteLine(extract);
+            Console.ReadLine();
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
