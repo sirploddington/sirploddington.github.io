@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Text Files
-categories: C# Programming
+categories: C# Programming Data-Storage
 ---
  
  To use StreamWriter to open and write to text files, an extra line of code in the library section at the top.
