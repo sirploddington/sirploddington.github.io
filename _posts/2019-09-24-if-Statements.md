@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: if Statement
-categories: C# Programming
+categories: C# Programming Selection
 ---
  
  An if statement is used to show if the answer is true or flase. The command we use for this is:
