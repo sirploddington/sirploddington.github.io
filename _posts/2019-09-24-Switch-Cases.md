@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Switch Cases
-categories: C# Programming
+categories: C# Programming Selection
 ---
  
  Switch/case allows you to make a program do different things depending on the value of a variable. To do this we type:
