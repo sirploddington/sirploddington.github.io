@@ -17,7 +17,7 @@ categories: C# Programming Data-Storage
  
  ```csharp
  
-sing (StreamWriter sw = new StreamWriter("TestFile.txt"))
+using (StreamWriter sw = new StreamWriter("TestFile.txt"))
 
  ```
   
